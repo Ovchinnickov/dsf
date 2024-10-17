@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color:red;
+}
+body{
+    background: #000 url("ScaryPumpkins.webp");
+}
+form{
+    color:red;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0, 0, 0.1);
+}
+label{
+    color:red;
+}
+button{
+    color: red;
+}

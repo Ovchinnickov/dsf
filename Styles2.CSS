@@ -1,0 +1,10 @@
+li{
+    color:red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 36px;
+}
+body{
+    background: url(Ticket.jpg);
+}
